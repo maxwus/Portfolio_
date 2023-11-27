@@ -1,0 +1,2 @@
+1. Processing contains basic mana manipulation and data fitting
+2. Virtual lockin contains comparison of experimental data with simulating data 
